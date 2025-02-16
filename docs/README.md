@@ -1,2 +1,2 @@
-# qmecha.gitbub.io
+# QMeCha
 QMeCha website
